@@ -52,11 +52,11 @@ export function TaskList() {
 
     const filteredTasks = tasks.filter(task => task.id != id);
 
-    // crie uma task para filtrar todas as tasks que forem diferentes do id que a função recebe
+    // crie filteredTasks para filtrar todas as tasks que forem diferentes do id que foi recebido a função (uma nova listagem de Tasks)
 
     setTasks(filteredTasks);
 
-    // insira o valor filteredTasks em setTasks
+    // ponha os valores filtrados em setTasks para a nova exibição em tela.
 
   }
 
