@@ -7,4 +7,15 @@ Esse projeto foi um dos desafios do curso Ignite da plataforma RocketSeat, para 
 
 -----------------------------------------------------------------
 
-Para fazer a aplicação funcionar, primeiro é necessário instalar todos os pacotes do projeto, insira o comando "yarn" no terminal do VSCode e aguarde o fim da instalação, com isso feito, insira o comando "yarn dev" no terminal, copie o link da URL em que a apliação está rodando (geralmente vai estar em http://localhost:8080/) e insira o link em seu navegador de preferencia para poder acessar a pagina To.do
+⚙️ Instalação
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone https:https://github.com/Elias-Ainsworth/Ignite-challenge-01
+```
+```
+# Instale as dependências
+$ yarn
+
+# Inicie a aplicação
+$ yarn dev
+```
