@@ -7,7 +7,7 @@ Esse projeto foi um dos desafios do curso Ignite da plataforma RocketSeat, para 
 
 -----------------------------------------------------------------
 
-⚙️ Instalação
+## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
 $ git clone https:https://github.com/Elias-Ainsworth/Ignite-challenge-01
